@@ -55,6 +55,7 @@ h1 {
 .torso { 
 	width: 200px; 
 	height: 200px;
+	justify-content: center;
 	border-radius: 0 0 50px 50px; 
 } 
 
@@ -105,8 +106,8 @@ h1 {
 
 .right_eye { 
 	position: relative; 
-	top: 100px; 
-	left: 120px; 
+	top: 81px; 
+	left: 140px; 
 }
 
 
